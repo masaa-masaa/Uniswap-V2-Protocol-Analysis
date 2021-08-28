@@ -9,7 +9,7 @@ import './UniswapV2Pair.sol';  //for calling UniswapV2Pair functions
 contract UniswapV2Factory is IUniswapV2Factory { //very simple inheritance
 ```
 
-![](Factory Contract.png)
+![](https://github.com/masaa-masaa/Uniswap-V2-Protocol-Analysis/blob/main/Factory%20Contract.png)
 
 **The createPair Function ** 
 
