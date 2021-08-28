@@ -9,7 +9,7 @@ import './UniswapV2Pair.sol';  //for calling UniswapV2Pair functions
 contract UniswapV2Factory is IUniswapV2Factory { //very simple inheritance
 ```
 
-![](C:\Users\jgmun\Documents\Ethereum\uniswapv2architect\Factory Contract.png)
+![](Factory Contract.png)
 
 **The createPair Function ** 
 
